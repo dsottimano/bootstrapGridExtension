@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "BCW: Bootstrap Grid Helper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gives your Bootstrap containers, rows and columns background colors to assist your learning with positioning",
 
   "browser_action": {
@@ -10,13 +10,6 @@
     "default_popup": "popup.html"
   },
 
-  "icons": {
-    "16": "bcwicon.ico",
-   
-    "24": "favicon24.ico",
-    "32": "favicon32.ico",
-    "64": "favicon64.ico"
-  },
 
   "permissions": ["tabs", "http://*/*", "https://*/*", "file:///*/*"],
 
